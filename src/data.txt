@@ -1,0 +1,10 @@
+France;Paris;67390000;Europe
+Brazil;Brasilia;214300000;South America
+Japan;Tokyo;125800000;Asia
+South Africa;Pretoria;59310000;Africa
+Australia;Canberra;25790000;Australia
+Canada;Ottawa;38240000;North America
+India;New Delhi;1417000000;Asia
+Germany;Berlin;83190000;Europe
+Egypt;Cairo;109300000;Africa
+Mexico;Mexico City;128900000;North America
