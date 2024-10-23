@@ -75,8 +75,8 @@ public class PaysManagement {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
             String url = "jdbc:mysql://localhost:3306/atlas";
-            String username = "amine";
-            String password = "AMIN@ben1234";
+            String username = "username";
+            String password = "password";
             return DriverManager.getConnection(url,username,password);
         } catch (SQLException | ClassNotFoundException ex) {
             System.out.println(ex.getMessage());
